@@ -1,0 +1,25 @@
+.container{
+  background: olivedrab;
+  min-height: 800px;
+  padding: 50px;
+}
+h1{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: rgb(31, 31, 82);
+}
+.row{
+  display: inline-block;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col{
+  margin: 10px;
+}
+img{
+  margin: auto;
+  width: 250px;
+  height: 200px;
+}
